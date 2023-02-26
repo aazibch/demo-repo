@@ -11,3 +11,5 @@ Watch tutorial on YouTube. It's good.
 1. Open index.html in your browser.
 
 You can watch the rainbow colors by passing `work` as an argument.
+
+> Better not to be a fool than to be one. - Einstein
